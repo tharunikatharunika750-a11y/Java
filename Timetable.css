@@ -1,0 +1,19 @@
+
+body {
+    background-color: lightyellow;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+table {
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+}
